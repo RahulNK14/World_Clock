@@ -1,0 +1,51 @@
+11:37:41.735 [main] INFO  testFiles.worldClockTest - Capturing the User Details
+11:37:41.750 [main] INFO  testFiles.worldClockTest - Successfully captured the User Details
+11:37:41.771 [main] INFO  testFiles.worldClockTest - verifyUser Sucessfully Executed
+11:37:41.774 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********
+11:37:41.843 [main] INFO  testFiles.worldClockTest - Scrolled down to the World Clock
+11:37:45.113 [main] INFO  testFiles.worldClockTest - verifyWorldClockText Sucessfully Executed
+11:37:45.117 [main] INFO  testFiles.worldClockTest - ********** validateBangloreTimeZone Test started **********
+11:37:48.459 [main] INFO  testFiles.worldClockTest - Verifying the current location details with the system details
+11:37:48.459 [main] INFO  testFiles.worldClockTest - Verified the current location
+11:37:48.472 [main] INFO  testFiles.worldClockTest - Verified the current time
+11:37:48.479 [main] INFO  testFiles.worldClockTest - Verified the current day
+11:37:48.479 [main] INFO  testFiles.worldClockTest - Verified the current date
+11:37:48.481 [main] INFO  testFiles.worldClockTest - validateBangloreTimeZone Sucessfully Executed
+11:37:48.482 [main] INFO  testFiles.worldClockTest - ********** validateLondonTimeZone Test started **********
+11:37:48.755 [main] INFO  testFiles.worldClockTest - Verifying the London, UK (BST) details
+11:37:48.852 [main] INFO  testFiles.worldClockTest - Google tab opened
+11:37:55.208 [main] INFO  testFiles.worldClockTest - search data entered
+11:37:58.469 [main] INFO  testFiles.worldClockTest - Verified the time
+11:37:58.493 [main] INFO  testFiles.worldClockTest - Verified the day and date
+11:37:58.493 [main] INFO  testFiles.worldClockTest - Verified the time difference
+11:37:58.545 [main] INFO  testFiles.worldClockTest - validateLondonTimeZone Sucessfully Executed
+11:37:58.548 [main] INFO  testFiles.worldClockTest - ********** validateNewYorkTimeZone Test started **********
+11:37:58.867 [main] INFO  testFiles.worldClockTest - Verifying the New York, NY (EST) details
+11:37:59.179 [main] INFO  testFiles.worldClockTest - search data entered in the google
+11:38:03.790 [main] ERROR testFiles.worldClockTest - validateNewYorkTimeZone got failed
+11:38:03.792 [main] INFO  testFiles.worldClockTest - ********** validateHotApps Test started **********
+11:38:37.983 [main] ERROR testFiles.worldClockTest - validateHotApps got failed
+11:38:37.985 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+11:38:37.987 [main] INFO  testFiles.worldClockTest - validateRandomApp got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:38:39.202 [main] INFO  testFiles.worldClockTest - Closing the browser
+11:39:01.608 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+11:39:01.658 [main] INFO  testFiles.worldClockTest - verifyUser got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.660 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********
+11:39:01.665 [main] INFO  testFiles.worldClockTest - verifyWorldClockText got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.668 [main] INFO  testFiles.worldClockTest - ********** validateBangloreTimeZone Test started **********
+11:39:01.671 [main] INFO  testFiles.worldClockTest - validateBangloreTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.672 [main] INFO  testFiles.worldClockTest - ********** validateLondonTimeZone Test started **********
+11:39:01.675 [main] INFO  testFiles.worldClockTest - validateLondonTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.676 [main] INFO  testFiles.worldClockTest - ********** validateNewYorkTimeZone Test started **********
+11:39:01.680 [main] INFO  testFiles.worldClockTest - validateNewYorkTimeZone got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.682 [main] INFO  testFiles.worldClockTest - ********** validateHotApps Test started **********
+11:39:01.686 [main] INFO  testFiles.worldClockTest - validateHotApps got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.687 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+11:39:01.689 [main] INFO  testFiles.worldClockTest - validateRandomApp got skipped !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+11:39:01.733 [main] INFO  testFiles.worldClockTest - Closing the browser
+11:49:36.739 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+11:49:36.788 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+11:49:49.318 [main] INFO  testFiles.worldClockTest - Capturing the User Details
+11:49:49.318 [main] INFO  testFiles.worldClockTest - Successfully captured the User Details
+11:49:49.336 [main] INFO  testFiles.worldClockTest - verifyUser Sucessfully Executed
+11:49:49.338 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********

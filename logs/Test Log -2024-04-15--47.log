@@ -1,0 +1,58 @@
+13:10:15.779 [main] INFO  testFiles.worldClockTest - Verifying the New York, NY (EST) details
+13:10:16.011 [main] INFO  testFiles.worldClockTest - search data entered in the google
+13:10:20.034 [main] INFO  testFiles.worldClockTest - Verified the time
+13:10:20.052 [main] INFO  testFiles.worldClockTest - Verified the day and date
+13:10:20.052 [main] INFO  testFiles.worldClockTest - Verified the time difference
+13:10:20.117 [main] INFO  testFiles.worldClockTest - closed the google tab
+13:10:20.243 [main] INFO  testFiles.worldClockTest - validateNewYorkTimeZone Sucessfully Executed
+13:10:20.244 [main] INFO  testFiles.worldClockTest - ********** validateHotApps Test started **********
+13:10:31.447 [main] INFO  testFiles.worldClockTest - Got beCognizant Handle
+13:10:31.458 [main] INFO  testFiles.worldClockTest - Got Window Handles
+13:10:31.465 [main] INFO  testFiles.worldClockTest - Switched to OneC
+13:10:40.577 [main] INFO  testFiles.worldClockTest - Hot Apps clicked
+13:10:47.606 [main] INFO  testFiles.worldClockTest - Alphabets Validated
+13:10:47.844 [main] INFO  testFiles.worldClockTest - validateHotApps Sucessfully Executed
+13:10:47.845 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+13:10:48.753 [main] INFO  testFiles.worldClockTest - Alphabet clicked
+13:11:03.471 [main] INFO  testFiles.worldClockTest - validateRandomApp Sucessfully Executed
+13:11:04.703 [main] INFO  testFiles.worldClockTest - Closing the browser
+11:46:22.850 [main] INFO  testFiles.worldClockTest - --------------------------- TEST BEGINS ---------------------------------
+11:46:22.886 [main] INFO  testFiles.worldClockTest - ********** verifyUser Test started **********
+11:46:35.694 [main] INFO  testFiles.worldClockTest - Capturing the User Details
+11:46:35.694 [main] INFO  testFiles.worldClockTest - Successfully captured the User Details
+11:46:36.292 [main] INFO  testFiles.worldClockTest - verifyUser Sucessfully Executed
+11:46:36.298 [main] INFO  testFiles.worldClockTest - ********** verifyWorldClockText Test started **********
+11:46:36.348 [main] INFO  testFiles.worldClockTest - Scrolled down to the World Clock
+11:46:39.785 [main] INFO  testFiles.worldClockTest - verifyWorldClockText Sucessfully Executed
+11:46:39.787 [main] INFO  testFiles.worldClockTest - ********** validateBangloreTimeZone Test started **********
+11:46:43.090 [main] INFO  testFiles.worldClockTest - Verifying the current location details with the system details
+11:46:43.090 [main] INFO  testFiles.worldClockTest - Verified the current location
+11:46:43.111 [main] INFO  testFiles.worldClockTest - Verified the current time
+11:46:43.114 [main] INFO  testFiles.worldClockTest - Verified the current day
+11:46:43.114 [main] INFO  testFiles.worldClockTest - Verified the current date
+11:46:43.284 [main] INFO  testFiles.worldClockTest - validateBangloreTimeZone Sucessfully Executed
+11:46:43.285 [main] INFO  testFiles.worldClockTest - ********** validateLondonTimeZone Test started **********
+11:46:43.510 [main] INFO  testFiles.worldClockTest - Verifying the London, UK (BST) details
+11:46:43.618 [main] INFO  testFiles.worldClockTest - Google tab opened
+11:46:50.250 [main] INFO  testFiles.worldClockTest - search data entered
+11:46:53.450 [main] INFO  testFiles.worldClockTest - Verified the time
+11:46:53.481 [main] INFO  testFiles.worldClockTest - Verified the day and date
+11:46:53.481 [main] INFO  testFiles.worldClockTest - Verified the time difference
+11:46:53.710 [main] INFO  testFiles.worldClockTest - validateLondonTimeZone Sucessfully Executed
+11:46:53.712 [main] INFO  testFiles.worldClockTest - ********** validateNewYorkTimeZone Test started **********
+11:46:53.953 [main] INFO  testFiles.worldClockTest - Verifying the New York, NY (EST) details
+11:46:54.259 [main] INFO  testFiles.worldClockTest - search data entered in the google
+11:46:58.623 [main] INFO  testFiles.worldClockTest - Verified the time
+11:46:58.646 [main] INFO  testFiles.worldClockTest - Verified the day and date
+11:46:58.646 [main] INFO  testFiles.worldClockTest - Verified the time difference
+11:46:58.717 [main] INFO  testFiles.worldClockTest - closed the google tab
+11:46:58.917 [main] INFO  testFiles.worldClockTest - validateNewYorkTimeZone Sucessfully Executed
+11:46:58.918 [main] INFO  testFiles.worldClockTest - ********** validateHotApps Test started **********
+11:47:10.137 [main] INFO  testFiles.worldClockTest - Got beCognizant Handle
+11:47:10.149 [main] INFO  testFiles.worldClockTest - Got Window Handles
+11:47:10.156 [main] INFO  testFiles.worldClockTest - Switched to OneC
+11:47:20.465 [main] INFO  testFiles.worldClockTest - Hot Apps clicked
+11:47:27.512 [main] INFO  testFiles.worldClockTest - Alphabets Validated
+11:47:27.963 [main] INFO  testFiles.worldClockTest - validateHotApps Sucessfully Executed
+11:47:27.964 [main] INFO  testFiles.worldClockTest - ********** validateRandomApp Test started **********
+11:47:29.192 [main] INFO  testFiles.worldClockTest - Alphabet clicked

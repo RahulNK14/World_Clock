@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T17:02:05 IST" name="Suite" finished-at="2024-04-21T17:03:31 IST" duration-ms="86044">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T17:02:05 IST" name="Test" finished-at="2024-04-21T17:03:31 IST" duration-ms="86044">
+      <class name="testFiles.worldClockTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:05 IST" name="setup" finished-at="2024-04-21T17:02:14 IST" duration-ms="9224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="poms()[pri:0, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:14 IST" name="poms" finished-at="2024-04-21T17:02:15 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- poms -->
+        <test-method signature="verifyUser()[pri:1, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:15 IST" name="verifyUser" finished-at="2024-04-21T17:02:27 IST" duration-ms="11988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+        <test-method signature="verifyWorldClockText()[pri:2, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:27 IST" name="verifyWorldClockText" finished-at="2024-04-21T17:02:30 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWorldClockText -->
+        <test-method signature="validateBangloreTimeZone()[pri:3, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:30 IST" name="validateBangloreTimeZone" finished-at="2024-04-21T17:02:34 IST" depends-on-methods="testFiles.worldClockTest.verifyWorldClockText" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBangloreTimeZone -->
+        <test-method signature="validateLondonTimeZone()[pri:4, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:34 IST" name="validateLondonTimeZone" finished-at="2024-04-21T17:02:43 IST" depends-on-methods="testFiles.worldClockTest.verifyWorldClockText" duration-ms="8404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLondonTimeZone -->
+        <test-method signature="validateNewYorkTimeZone()[pri:5, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:43 IST" name="validateNewYorkTimeZone" finished-at="2024-04-21T17:02:47 IST" depends-on-methods="testFiles.worldClockTest.verifyWorldClockText" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewYorkTimeZone -->
+        <test-method signature="validateHotApps()[pri:6, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:02:48 IST" name="validateHotApps" finished-at="2024-04-21T17:03:15 IST" duration-ms="27534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHotApps -->
+        <test-method signature="validateRandomApp(java.lang.String)[pri:7, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:03:15 IST" name="validateRandomApp" finished-at="2024-04-21T17:03:30 IST" depends-on-methods="testFiles.worldClockTest.validateHotApps" duration-ms="14446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRandomApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testFiles.worldClockTest@305b7c14]" started-at="2024-04-21T17:03:30 IST" name="tearDown" finished-at="2024-04-21T17:03:31 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testFiles.worldClockTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
